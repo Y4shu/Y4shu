@@ -10,7 +10,7 @@
 <!-- About Section -->
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25px"> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Y4shu/Y4shu/main/assets/night.png" width="200px"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px"/>
 
 - 👩‍💻 Passionate front-end developer with a love for crafting intuitive interfaces.
 - 📱 Skilled in Flutter & Kotlin Android Development.
