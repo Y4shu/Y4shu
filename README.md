@@ -81,7 +81,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Y4shu&theme=gruvbox" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4shu&theme=gruvbox" />
 </p>
 
 <!-- Gruvbox Horizontal Divider -->
