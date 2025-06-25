@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Yashasvi Jain 👋</h1>
 
 <div align="center">
-  <h3>💻 Front-End Dev | ⚡ Electronics & ML Enthusiast | 🎨 UI/UX Designer</h3>
+  <h3>💻 Front-End Dev | ⚡ Electronics & ML | 🎨 UI/UX Designer</h3>
 </div>
 
 <!-- About Section -->
