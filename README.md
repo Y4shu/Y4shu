@@ -53,7 +53,7 @@
 
 ## 🚀 Projects
 
-### 🩸 [HemoCycle](https://github.com/Y4shu/HemoCycle)
+### 🩸 [HemoCycle](https://github.com/Y4shu/HemoCycle-2)
 > A mobile app that detects anemia through lower eyelid image processing. Powered by ML & Flutter. 🧬📱
 
 ### 🎨 [Colour Blindness Detection](https://github.com/Y4shu/ColourBlindnessDetection)
