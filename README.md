@@ -54,13 +54,13 @@
 ## 🚀 Projects
 
 ### 🩸 [HemoCycle](https://github.com/Y4shu/HemoCycle-2)
-> A mobile app that detects anemia through lower eyelid image processing. Powered by ML & Flutter. 🧬📱
+> A mobile app that detects anemia through lower eyelid image processing. Powered by ML & Flutter. [Phase 2 Completed]🧬📱
 
 ### 🎨 [Colour Blindness Detection](https://github.com/Y4shu/ColourBlindnessDetection)
-> A quiz-based app that helps users detect colour vision deficiency using image-based questions. 🌈🧠
+> A quiz-based app that helps users detect colour vision deficiency using image-based questions. [Completed]🌈🧠
 
-### 📡 [ProftoPupil](underwork)
-> A Website that allows Professors, students and all those in the educational area connect and collaborate. 🧬📱
+### 📡 [ProftoPupil]
+> A Website that allows Professors, students and all those in the educational area connect and collaborate. [In Progress]🤝♾️
 
 ---
 
