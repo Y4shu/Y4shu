@@ -13,8 +13,9 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px"/>
 
 - 👩‍💻 Passionate front-end developer with a love for crafting intuitive interfaces.
-- 📱 Skilled in Flutter & Kotlin Android Development.
+- 📱 Skilled in Flutter & Kotlin Android Development, React in Web Development.
 - 🧠 Curious about Machine Learning and Electronics.
+- 🗂 Verilog and System Verilog? That's C and C++!!
 - ✨ I love blending tech and creativity — building as I grow 😉
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashasvi-jain-44a553322/)
 
