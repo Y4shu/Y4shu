@@ -66,7 +66,7 @@
 ### 📡 [ProftoPupil]
 > A Website that allows Professors, students and all those in the educational area connect and collaborate. [In Progress]🤝♾️
 
-### 👓 [Clique]
+### 👓 [Clique](https://github.com/somelamedude-git/ecom)
 > Full-stack E-commerce site. It features multi-role authentication, cart & wishlist systems, checkout flows, order tracking, and much more!. [Completed] 🏬👠
 
 ---
