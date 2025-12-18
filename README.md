@@ -15,7 +15,7 @@
 - 👩‍💻 Passionate front-end developer with a love for crafting intuitive interfaces.
 - 📱 Skilled in Flutter & Kotlin Android Development, React in Web Development.
 - 🧠 Curious about Machine Learning and Electronics.
-- 🗂 Verilog and System Verilog? That's C and C++!!
+- 🗂 Verilog and System Verilog? Like it like C and C++!!
 - ✨ I love blending tech and creativity — building as I grow 😉
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashasvi-jain-44a553322/)
 
@@ -33,6 +33,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Verilog]
 
 ### 🧰 Tools & Platforms
 
@@ -49,6 +50,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![QuestaSim]
+![Vivado]
 
 ---
 
@@ -62,6 +65,9 @@
 
 ### 📡 [ProftoPupil]
 > A Website that allows Professors, students and all those in the educational area connect and collaborate. [In Progress]🤝♾️
+
+### 👓 [Clique]
+> Full-stack E-commerce site. It features multi-role authentication, cart & wishlist systems, checkout flows, order tracking, and much more!. [Completed] 🏬👠
 
 ---
 
