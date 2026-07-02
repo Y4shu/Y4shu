@@ -12,9 +12,7 @@ RTL Design | Verification | Digital Design
 ## About
 
 I'm an Electrical and Electronics Engineering undergraduate at IIIT Gwalior with interests in RTL design and verification, GPU systems, and hardware acceleration.
-
 My work spans digital design, hardware verification, and software development, and I enjoy building projects that bridge hardware and software.
-
 Currently exploring:
 - GPU architecture and AI accelerators
 - RTL design and verification
@@ -25,6 +23,13 @@ Currently exploring:
 
 - LinkedIn: https://www.linkedin.com/in/yashasvi-jain-44a553322/
 - Email: yashasvi.j0293@gmail.com
+
+## Experience
+
+**AIonSi**: RTL Design Intern  
+Designed and verified Verilog RTL for a clock-control subsystem using QuestaSim.
+**CDAC Bengaluru**: GPU Architecture Intern  
+Exploring GPU microarchitecture, Tensor/Matrix Core design, and execution pipelines for AI acceleration.
 
 ---
 
