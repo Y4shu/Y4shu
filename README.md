@@ -26,9 +26,9 @@ Currently exploring:
 
 ## Experience
 
-**AIonSi**: RTL Design Intern  
+- **AIonSi**: RTL Design Intern  
 Designed and verified Verilog RTL for a clock-control subsystem using QuestaSim.
-**CDAC Bengaluru**: GPU Architecture Intern  
+- **CDAC Bengaluru**: GPU Architecture Intern  
 Exploring GPU microarchitecture, Tensor/Matrix Core design, and execution pipelines for AI acceleration.
 
 ---
