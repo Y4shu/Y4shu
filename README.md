@@ -79,12 +79,7 @@ Full-stack e-commerce platform featuring authentication, payments, order managem
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y4shu&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y4shu&layout=compact&theme=gruvbox" />
-</p>
+## Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y4shu&theme=gruvbox" />
@@ -97,6 +92,3 @@ Full-stack e-commerce platform featuring authentication, payments, order managem
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4shu&theme=gruvbox" />
 </p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
