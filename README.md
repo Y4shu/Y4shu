@@ -1,7 +1,7 @@
 <h1 align="center">Yashasvi Jain</h1>
 
 <p align="center">
-RTL Design | Verification | Digital Design
+RTL Design and Verification
 </p>
 
 ---
