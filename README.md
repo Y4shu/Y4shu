@@ -79,14 +79,6 @@ Full-stack e-commerce platform featuring authentication, payments, order managem
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y4shu&theme=gruvbox" />
-</p>
-
----
-
 ## Activity
 
 <p align="center">
