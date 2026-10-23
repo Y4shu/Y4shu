@@ -1,8 +1,9 @@
 <h1 align="center">Yashasvi Jain</h1>
 
 <p align="center">
-[LinkedIn](https://in.linkedin.com/yashasvi-jain-44a553322) | [Email](mailto:yashasvi.j0293@gmail.com)
-</p>
+  <a href="https://in.linkedin.com/yashasvi-jain-44a553322">LinkedIn</a> |
+  <a href="mailto:yashasvi.j0293@gmail.com">Email</a>
+</p></p>
 
 ---
 
