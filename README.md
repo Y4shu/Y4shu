@@ -13,14 +13,9 @@ I'm an Electrical and Electronics Engineering undergraduate at IIIT Gwalior with
 My work spans digital design, hardware verification, and software development, and I enjoy building projects that bridge hardware and software.
 Currently exploring:
 - GPU architecture and AI accelerators
-- RTL design and verification
+- SoC design and verification
 - Digital system design
 - High-performance computing
-
-**Links**
-
-- LinkedIn: https://www.linkedin.com/in/yashasvi-jain-44a553322/
-- Email: yashasvi.j0293@gmail.com
 
 ## Experience
 
