@@ -1,7 +1,7 @@
 <h1 align="center">Yashasvi Jain</h1>
 
 <p align="center">
-RTL Design and Verification
+[LinkedIn](https://in.linkedin.com/yashasvi-jain-44a553322) | [Email](mailto:yashasvi.j0293@gmail.com)
 </p>
 
 ---
